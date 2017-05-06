@@ -41,7 +41,7 @@ then to run bssid simply type;
 python3 locatebssid.py
 ```
 Below is an example of the console output.
-![sceenshot_console](https://cloud.githubusercontent.com/assets/17799879/25775477/b07bba92-329d-11e7-8683-0d0f80c55394.png)
+![console](https://cloud.githubusercontent.com/assets/17799879/25775557/9a8f02be-329f-11e7-86d0-d135b26d8ede.png)
 
 If you select Y at the option it will open the browser to locate the BSSID.
 ![map1](https://cloud.githubusercontent.com/assets/17799879/25775497/ebc9bd2e-329d-11e7-8621-6c2c5aa4d68e.png)
