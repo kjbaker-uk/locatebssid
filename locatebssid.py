@@ -2,7 +2,7 @@ import urllib.request
 import json
 import webbrowser
 
-___author__ = 'D4rkc00d3r'
+___author___ = 'D4rkc00d3r'
 
 bssid = input('Enter a BSSID: ')  # Mac address of AP you want to locate
 api_uri = 'https://api.mylnikov.org/geolocation/wifi?v=1.1&data=open&bssid='  # Api endpoint for database.
