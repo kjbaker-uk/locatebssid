@@ -21,7 +21,8 @@ The json below is returned from the API provider and I add some formatting to ma
     }
 }
 ```
-example based on the test BSSID of 00:0C:42:1F:65:E9
+ * Example based on the test BSSID of 00:0C:42:1F:65:E9, I used the example BSSID from the API hence why it is the same.
+ During development none of my own BSSID returned a result.
 
 ## What API am I using and why?
 I am using the opensource WiFi database from https://www.mylnikov.org/ made by ALEXANDER MYLNIKOV. I started googling for
