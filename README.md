@@ -50,3 +50,6 @@ If you select Y at the option it will open the browser to locate the BSSID.
 
 ## Credits
 The API and lookup website belongs to ALEXANDER MYLNIKOV at https://www.mylnikov.org/
+
+## Want to use or change my code?
+Thats awesome! Thnaks, but please adhere to the GNU GENERAL PUBLIC LICENSE. For more information see the LICENSE.txt in the repo.
