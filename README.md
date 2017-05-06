@@ -52,4 +52,6 @@ If you select Y at the option it will open the browser to locate the BSSID.
 The API and lookup website belongs to ALEXANDER MYLNIKOV at https://www.mylnikov.org/
 
 ## Want to use or change my code?
-Thats awesome! Thnaks, but please adhere to the GNU GENERAL PUBLIC LICENSE. For more information see the LICENSE.txt in the repo.
+That's awesome! Thnaks, but please adhere to the GNU GENERAL PUBLIC LICENSE. For more information see the LICENSE.txt in the repo.
+
+Enjoy. D4rkC00d3r :-)
