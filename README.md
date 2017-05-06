@@ -51,4 +51,4 @@ If you select Y at the option it will open the browser to locate the BSSID.
 2. I have tried to make it as clean as possable adhering to PEP 8.
 
 ## Credits
-The API and lookup website beloings to ALEXANDER MYLNIKOV at https://www.mylnikov.org/
+The API and lookup website belongs to ALEXANDER MYLNIKOV at https://www.mylnikov.org/
