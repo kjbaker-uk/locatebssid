@@ -10,6 +10,7 @@ map_url = 'http://find-wifi.mylnikov.org/#'  # Map provider for plotting results
 
 # Example of a MAC address; 00:0C:42:1F:65:E9 this can be used for testing.
 
+
 def mappin():
     while True:
         confirm = input('Show on map? (Y)es or (N)o: ')
@@ -26,7 +27,7 @@ def results():
     else:
         print('Device has last been seen at:')
         print('Lat: {0}'.format(data['data']['lat']))
-        print('Lat: {0}'.format(data['data']['lon']))
+        print('Lon: {0}'.format(data['data']['lon']))
         print('Meter accuracy: {0}'.format(data['data']['range']))
         mappin()
 
