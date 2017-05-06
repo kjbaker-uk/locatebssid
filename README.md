@@ -26,7 +26,7 @@ The json below is returned from the API provider and I add some formatting to ma
 
 ## What API am I using and why?
 I am using the opensource WiFi database from https://www.mylnikov.org/ made by ALEXANDER MYLNIKOV. I started googling for
-a public WiFi database and found his. I choose it as it dose not require a API Key or have a request limit so it is great
+a public WiFi database and found his. I choose it as it does not require a API Key or have a request limit so it is great
 for a first time API. It has over 35 million worldwide records in it apparently.
 
 ## How to use locatebssid?
