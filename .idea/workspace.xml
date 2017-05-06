@@ -40,12 +40,12 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="574">
-                <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="440">
+                <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
                 <folding>
-                  <marker date="1494104373792" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
-                  <marker date="1494104373792" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
+                  <marker date="1494104539705" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
+                  <marker date="1494104539705" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -260,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494104064339</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fixed a typo.">
+      <created>1494104376702</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1494104376702</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -315,8 +322,8 @@
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
-              <marker date="1494104373792" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
-              <marker date="1494104373792" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
+              <marker date="1494104539705" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
+              <marker date="1494104539705" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
             </folding>
           </first_editor>
           <second_editor />
@@ -339,8 +346,8 @@
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
-              <marker date="1494104373792" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
-              <marker date="1494104373792" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
+              <marker date="1494104539705" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
+              <marker date="1494104539705" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
             </folding>
           </first_editor>
           <second_editor />
@@ -397,18 +404,18 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1494104373792" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
-            <marker date="1494104373792" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
+            <marker date="1494104539705" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
+            <marker date="1494104539705" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
           </folding>
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="574">
-            <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="440">
+            <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
             <folding>
-              <marker date="1494104373792" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
-              <marker date="1494104373792" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
+              <marker date="1494104539705" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
+              <marker date="1494104539705" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
             </folding>
           </first_editor>
           <second_editor />

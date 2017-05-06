@@ -5,10 +5,10 @@
 I am learning how to use Application Programming Interface's (API) within Python and how to handle the returned data in json.
 
 ## What can Locatebssid do?
-With locatebssid you are able to enter a MAC, BSSID address and make an api request to get the location of the BSSID providing it is in the database. If the BSSD is in the database it will print out the Lat/Lon and give you the option to view it in Google Maps as a pin.
+With locatebssid you are able to enter a MAC, BSSID address and make an API request to get the location of the BSSID providing it is in the database. If the BSSD is in the database it will print out the Lat/Lon and give you the option to view it in Google Maps as a pin.
 
 ## What does the json result look like?
-The json below is returned from the api provider and I add some formatting to make it readable.
+The json below is returned from the API provider and I add some formatting to make it readable.
 
 ```json
   {
