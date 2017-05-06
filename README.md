@@ -46,7 +46,7 @@ If you select Y at the option it will open the browser to locate the BSSID.
 
 ## Additional notes
 1. Each time you run the script check the locatebssid.json file to see it change.
-2. I have tried to make it as clean as possable adhering to PEP 8.
+2. I have tried to make it as clean as passable adhering to PEP 8.
 
 ## Credits
 The API and lookup website belongs to ALEXANDER MYLNIKOV at https://www.mylnikov.org/

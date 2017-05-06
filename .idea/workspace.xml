@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c420e45b-288a-40d1-9c93-71832c5859a6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +15,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="locatebssid.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="locatebssid.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/locatebssid.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
@@ -36,15 +37,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="574">
+                <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
                 <folding>
-                  <marker date="1494102767478" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
-                  <marker date="1494102767478" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
+                  <marker date="1494104373792" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
+                  <marker date="1494104373792" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -61,6 +62,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/locatebssid.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -251,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494103500836</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fixed a typo.">
+      <created>1494104064339</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1494104064339</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -306,8 +315,8 @@
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
-              <marker date="1494102767478" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
-              <marker date="1494102767478" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
+              <marker date="1494104373792" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
+              <marker date="1494104373792" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
             </folding>
           </first_editor>
           <second_editor />
@@ -330,8 +339,8 @@
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
-              <marker date="1494102767478" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
-              <marker date="1494102767478" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
+              <marker date="1494104373792" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
+              <marker date="1494104373792" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
             </folding>
           </first_editor>
           <second_editor />
@@ -365,29 +374,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1494102767478" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
-            <marker date="1494102767478" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
-          </folding>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1494102767478" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
-              <marker date="1494102767478" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/locatebssid.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -403,6 +389,29 @@
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1494104373792" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
+            <marker date="1494104373792" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="574">
+            <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+            <folding>
+              <marker date="1494104373792" expanded="true" signature="731:888" ph="{&quot;result&quot;: 200...}" />
+              <marker date="1494104373792" expanded="true" signature="764:886" ph="{&quot;time&quot;: 1494088927...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
