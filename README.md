@@ -35,7 +35,7 @@ Simply clone or download the locatebssid project and make the script executable 
 ```
 sudo chmod +x locatebssid.py
 ```
-then to run bssid simply type;
+then to run locatebssid simply type;
 ```
 python3 locatebssid.py
 ```
